@@ -1,9 +1,7 @@
 # PDSA
 PDSA-June-2023term
 
-Notes:
-https://pdsaiitm.github.io/
-
+P.S. This is compilation from different sources
 
 Week	|Content|
 ------|-------|
@@ -18,3 +16,7 @@ Week	|Content|
 9	|Dynamic programming	|
 10|	String or Pattern Matching Algorithm and Regular Expressions|
 11|	Complexity classes, Flow network and Linear programming	 |
+
+
+Notes:
+https://pdsaiitm.github.io/
